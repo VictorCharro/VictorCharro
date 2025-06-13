@@ -8,4 +8,4 @@
 
 Links: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/victorcharro/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/victorcharro/)
