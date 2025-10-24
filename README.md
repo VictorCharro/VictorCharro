@@ -1,4 +1,3 @@
-# 👋 Olá! Eu sou o Victor Charro
 ### Desenvolvedor Back-end Java | Spring Boot
 > *Transformando lógica de negócio em código limpo e escalável*
 
