@@ -1,4 +1,4 @@
-### Desenvolvedor Back-end Java | Spring Boot
+## Desenvolvedor Back-end Java | Spring Boot
 
 
 **Estudante de Análise e Desenvolvimento de Sistemas** na FIAP (formatura prevista em jul/2027)
@@ -11,9 +11,13 @@ Stack principal: **Java, Spring, PostgreSQL, APIs REST** • também transito po
 
 ## Sobre mim
 
-Atuo como estagiário de desenvolvimento back-end na **Élin Duxus Consultoria**, construindo e mantendo APIs REST com Java e Spring para soluções de gestão de riscos financeiros, seguindo requisitos regulatórios do Bacen. Antes disso, passei 7 anos empreendendo em e-commerce (Mercado Livre, Shopee, Magalu), o que me deu uma bagagem forte em:
+Atuo como estagiário de desenvolvimento back-end na **Élin Duxus Consultoria**, construindo e mantendo APIs REST com Java e Spring para soluções de gestão de riscos financeiros, seguindo requisitos regulatórios do Bacen. 
+
+Antes disso, passei 7 anos empreendendo em e-commerce (Mercado Livre, Shopee, Magalu)
 
 Fora do trabalho, desenvolvo projetos pessoais full stack, do back-end ao deploy em nuvem.
+
+[![Meu LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcharro/)
 
 ---
 
@@ -98,29 +102,5 @@ Aplicação de alertas de preço de passagens aéreas.
 ---
 
 ## Idiomas
-Inglês (Professional Working) • Português (Nativo)
+Inglês Intermediário (Fazendo aulas particulares) • Português (Nativo)
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCharro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCharro&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-## Vamos Conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcharro/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v_chs@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorCharro)
-
----
-
-<div align="center">
-
-São Paulo - SP | Back-end Java/Spring na Élin Duxus Consultoria
-
-</div>
